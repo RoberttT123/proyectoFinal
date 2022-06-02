@@ -1,0 +1,23 @@
+.container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    background-color: rgba(218, 218, 45, 0.000001);
+    margin: 50px;
+    height: 80px;
+    width: 200px;
+    justify-content: center;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    transition-duration: 0.4s;
+    border: yellow;
+}
+.button:hover {
+    background-color: rgba(246, 246, 29, 0.424);
+    color: black;
+    border-radius: 10%;
+  }

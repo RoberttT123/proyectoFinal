@@ -1,0 +1,16 @@
+.puma img{
+
+    border-radius: 35%;
+    width: 60px; height: 60px;
+}
+.puma{
+     display: flex;
+    justify-content: center;
+    margin: 5px auto;
+    border-bottom: 3px solid rgb(255, 255, 255);
+}
+.pum{
+    display: flex;
+    width:100%; height: 100%; 
+}
+
